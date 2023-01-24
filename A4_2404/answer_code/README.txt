@@ -1,6 +1,6 @@
 COMP2404B
-name: Khaled Banjaki
-#: 101058264
+name: Khaled 
+#: @@@@@@@@
 
 ******A2 base code was used for this assignment******
 
