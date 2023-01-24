@@ -1,0 +1,6 @@
+follow -u fjones -p mysongs -f gjones
+follow -u gjones -p mysongs -f fjones
+
+delete -u gjones -p mysongs -t 8
+follow -u fjones -p mysongs -f stop
+add -l gjones "mysongs" 8
