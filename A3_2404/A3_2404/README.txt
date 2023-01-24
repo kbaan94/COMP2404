@@ -2,8 +2,8 @@ COMP2404
 Assignment 3
 Prof. Louis Nel
 
-Khaled Banjaki
-Student Number: 101058264
+Khaled 
+Student Number: ########
 November 18, 2019
 
 
